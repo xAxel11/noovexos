@@ -6,9 +6,10 @@
 ██║ ╚████║╚██████╔╝╚██████╔╝ ╚████╔╝ ███████╗██╔╝ ██╗╚██████╔╝███████║
 ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝   ╚═══╝  ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 
-                             
-...<img width="1276" height="1010" alt="image" src="https://github.com/user-attachments/assets/e39dd982-a542-4705-ac31-1e331c2729e7" />
 
+<img width="1274" height="1003" alt="image" src="https://github.com/user-attachments/assets/ca0f93ed-8145-4a52-8df2-26007b91a4e6" />
+
+```
 
 # NOOVEXOS
 
